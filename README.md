@@ -4,7 +4,7 @@ Hi 👋 My name is JokNavi
 Amature coding enjoyer. Self-taught.
 ------------------------------------
 
-I've been learning to code for 7 months now starting in c# switching to python and now finally after getting a decent understanding of python moving over to other langauges.
+I've been learning to code for 7 months Mainly Python and C#
 
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [joknavi1@gmail.com](mailto:joknavi1@gmail.com)
