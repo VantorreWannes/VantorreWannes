@@ -9,7 +9,7 @@ I've been learning to code for 7 months now starting in c# switching to python a
 *   🌍  I'm based in Belgium
 *   ✉️  You can contact me at [joknavi1@gmail.com](mailto:joknavi1@gmail.com)
 *   🧠  I'm learning C#
-*   🤝  I'm open to collaborating on Projects you might use to learn Javascript.
+*   🤝  I'm open to collaborating on Projects you might use to learn C#.
 *   ⚡  I like Foxes
 ### Skills 
 <p align="left">
