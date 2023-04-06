@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joknavi</h1>
 <h3 align="center">A passionate code monkey from Belgium</h3>
 
-- 🔭 I’m currently working on [MathFormatter](https://github.com/JokNavi/MathFormatter)
+- 🔭 I’m currently working on [NexusSave] (A VCS intended for all digital creators with ease of use put first.)
 
 - 🌱 I’m currently learning **Rust, Git, WSL**
 
