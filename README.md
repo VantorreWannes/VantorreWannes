@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Joknavi1@gmail.com**
 
-- ⚡ Fun fact **Life is just a game we're set on losing. That's why i try to make the most of my time.**
+- ⚡ Fun fact: **Never give up**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
