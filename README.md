@@ -7,7 +7,7 @@
 
 - 💬 You can ask me about **Python, Rust, Inspiration, Mental fortitude**
 
-- 📫 How to reach me **Joknavi1@gmail.com**
+- 📫 How to reach me **VantorreWannes@gmail.com**
 
 - ⚡ Fun fact: **Never give up**.
 
