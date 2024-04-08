@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m currently working on text_art: An advanced image to text converter.<br>If you're interested in collaborating on a project, feel free to send me a DM on any social media.<br>I'm currently studying C# in college but i often code in Rust and python in my spare time.<br>Fun fact: Never give up.
+- I’m currently working on text_art: An advanced image to text converter.
+- If you're interested in collaborating on a project, feel free to send me a DM on any social media.
+- I'm currently studying C# in college but i often code in Rust and python in my spare time.
+- Fun fact: Never give up.
 
 
 ## 🌐 Socials:
